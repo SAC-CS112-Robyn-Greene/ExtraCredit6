@@ -34,3 +34,5 @@ Extra people3=new Extra("Cornith Kearney");
     }//main
 
 }//class
+
+// Getting better
